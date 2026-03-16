@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExcelLikeGrid.Sandbox/ExcelLikeGrid.Sandbox.csproj" />
+  <Project Path="ExcelLikeGrid.UI/ExcelLikeGrid.UI.csproj" />
+</Solution>
